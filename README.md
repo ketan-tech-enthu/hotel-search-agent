@@ -102,9 +102,7 @@ You: same filters for Lonavala
 .
 ├── hotel_core.py        # framework-free domain logic (no LLM / cloud / framework imports)
 ├── hotel_graph.py       # LangGraph state, tools, graph, model + checkpointer factories, CLI
-├── requirements.txt
-├── .env.example         # configuration template (copy to .env)
-├── Dockerfile
+├── requirements.tx
 ├── .gitignore
 └── README.md
 ```
