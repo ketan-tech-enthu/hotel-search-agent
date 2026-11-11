@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Local data and outputs
+*.db
+*.db-shm
+*.db-wal
+hotels_*.csv
+serpapi_page.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
